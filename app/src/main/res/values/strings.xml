@@ -8,4 +8,6 @@
     <string name="total">Total</string>
     <string name="usd150">150$</string>
     <string name="confirmation">Would you like to place the order?</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
 </resources>
