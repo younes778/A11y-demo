@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="item_1">Item 1</string>
+    <string name="usd50">50$</string>
+    <string name="item_2">Item 2</string>
+    <string name="usd100">100$</string>
+    <string name="total">Total</string>
+    <string name="usd150">150$</string>
+    <string name="confirmation">Would you like to place the order?</string>
+</resources>
